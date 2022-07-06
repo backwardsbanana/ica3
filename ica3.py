@@ -8,6 +8,7 @@ for i in range(1000):
 	difficulty[frame.at[i, "prod_id"]] = frame.at[i, "review_difficulty"]
 
 print(price)
+print("\n")
 print(difficulty)
 
 #Only 736 unique prod_id's 
