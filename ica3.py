@@ -10,4 +10,4 @@ for i in range(1000):
 print(price)
 print(difficulty)
 
-#Only 735 unique prod_id's 
+#Only 736 unique prod_id's 
